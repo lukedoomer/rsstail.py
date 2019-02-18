@@ -12,6 +12,7 @@ import logging
 import textwrap
 import optparse
 from datetime import datetime as dt
+import re
 
 import feedparser
 
